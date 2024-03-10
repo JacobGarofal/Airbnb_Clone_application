@@ -47,7 +47,7 @@ function Home() {
                 />
                 <Card
                     src={"https://thespaces.com/wp-content/uploads/2017/08/Courtesy-of-Airbnb.jpg"}
-                    title={"Penthouse in London"}
+                    title={"Penthouse in London"} n 
                     description={"Enjoy the amazing sights of London with this stunning penthouse"}
                     price={"$350/night"}
                 />
